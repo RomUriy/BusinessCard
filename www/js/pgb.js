@@ -13,7 +13,7 @@ function BusinessCard() {
 	        'romuriy@gmail.com' + '\n' +
 	        'www.cemoe.com' + '\n' +
 	        'KrDUIs1012' + '\n' +
-			'Applied Informatics UEK' + '\n' +
+			'Applied Informatics UEK' + '\n';
 
 	navigator.notification.alert(info);
 	
