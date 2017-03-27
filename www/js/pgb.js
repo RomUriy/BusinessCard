@@ -25,7 +25,7 @@ function BusinessCard() {
 
 	info =  'Roman Yurkevych' + '\n' +
 	        'romuriy@gmail.com' + '\n' +
-	        'cemoe.com' + '\n' +
+	        'www.cemoe.com' + '\n' +
 	        'KrDUIs1012' + '\n' +
 			'Applied Informatics UEK' + '\n' +
 
