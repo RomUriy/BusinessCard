@@ -5,7 +5,7 @@
         version     = "1.0.0" >
 
     <name>BusinessCard</name>
-    <description>My first BusinessCard app</description>
+    <description>BusinessCard app</description>
     <author href="http://cemoe.com" email="romuriy@gmail.com">
 		Roman Yurkevych	</author>
 	<platform name="android" />
